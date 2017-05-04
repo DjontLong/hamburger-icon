@@ -1,5 +1,7 @@
 # Hamburger Icon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mrmlnc/hamburger-icon.svg)](https://greenkeeper.io/)
+
 > A collection of mixins for creating hamburger icons.
 
 Basic idea — [Sass Burger](https://github.com/jorenvanhee/sass-burger).
